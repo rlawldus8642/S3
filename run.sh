@@ -1,4 +1,4 @@
-# ./run.sh 그대로 적기ß
+# sh run.sh 그대로 적기ß
 
 git add .
 git commit -m "."
